@@ -1,15 +1,16 @@
 [versions]
 agp = "8.13.1"
-firebaseBom = "34.5.0"
+firebaseBom = "34.6.0"
 kotlin = "2.2.21"
 coreKtx = "1.17.0"
 materialIconsExtended = "1.7.8"
 serializationCoreKtx = "1.9.0"
-lifecycleRuntimeKtx = "2.9.4"
-activityCompose = "1.11.0"
-composeBom = "2025.11.00"
-navigation3 = "1.0.0-rc01"
+lifecycleRuntimeKtx = "2.10.0"
+activityCompose = "1.12.0"
+composeBom = "2025.11.01"
+navigation3 = "1.0.0"
 material = "1.13.0"
+googleServices = "4.4.4"
 
 [libraries]
 android-material = { group = "com.google.android.material", name = "material", version.ref = "material" }
@@ -36,3 +37,4 @@ android-application = { id = "com.android.application", version.ref = "agp" }
 kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
 kotlin-compose = { id = "org.jetbrains.kotlin.plugin.compose", version.ref = "kotlin" }
 kotlin-serialization = { id = "org.jetbrains.kotlin.plugin.serialization", version.ref = "kotlin"}
+google-services = { id = "com.google.gms.google-services", version.ref = "googleServices" }

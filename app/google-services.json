@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "769476318134",
-    "project_id": "quizspark-1d6b7",
-    "storage_bucket": "quizspark-1d6b7.firebasestorage.app"
+    "project_number": "243823658940",
+    "project_id": "quiztest-31090",
+    "storage_bucket": "quiztest-31090.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:769476318134:android:1c5875e58a697a87f16717",
+        "mobilesdk_app_id": "1:243823658940:android:975badfbb20e7e541b0db9",
         "android_client_info": {
           "package_name": "com.cmota.quizspark"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAmD1sqXUEqt-6mcFJUFUPtv-xOnPVWHcU"
+          "current_key": "AIzaSyDtcpNW7MKgHHqC_t-6XQ9WinjclXGsZWo"
         }
       ],
       "services": {

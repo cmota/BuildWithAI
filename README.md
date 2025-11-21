@@ -3,7 +3,8 @@
 QuizSpark is an Android app that lets users generate AI-powered quizzes on any topic, play through the questions, and submit their scores to a shared leaderboard. It is built entirely with Jetpack Compose and integrates Firebase for AI generation and persistence.
 
 This app was built for the #buildWithAI series workshop, and you can find the step-by-step tutorial here:
-👉 [Codelab: Build an AI-Powered Quiz App with Gemini and Firebase](https://cmota.github.io/BuildWithAI/)
+
+👉 [Codelab: Build an AI-Powered Quiz App with Gemini and Firebase](https://cmota.github.io/QuizSpark/)
 
 ## Features
 
