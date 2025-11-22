@@ -1,0 +1,28 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2025-11-22T11:24:14+01:00",
+  "id": "integrate-gemini-with-android",
+  "duration": 106,
+  "title": "Build an AI-Powered Quiz App with Gemini and Firebase",
+  "authors": "cafonsomota",
+  "summary": "QuizSpark: Build An AI-Powered Quiz App with Gemini and Firebase",
+  "source": "integrate-gemini-with-android.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "android",
+    "firebase",
+    "ai",
+    "gemini",
+    "jetpackcompose",
+    "buildwithai"
+  ],
+  "tags": [],
+  "feedback": "https://github.com/google/generative-ai-docs/issues",
+  "url": "integrate-gemini-with-android"
+}
